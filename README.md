@@ -1,6 +1,8 @@
-**MICCAI 2025 Conference Paper**
+
 
 # MedICL: In-Context Learning for Semantically Enhanced AKI Prediction in Cardiac Surgery
+
+**MICCAI 2025 Conference Paper**
 
 ## Abstract
 
